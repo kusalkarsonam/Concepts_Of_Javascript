@@ -1,5 +1,4 @@
-                    ![img_js](https://github.com/kusalkarsonam/Concepts_Of_Javascript/assets/100954124/7778d8bd-9d97-4601-9add-4bfd61986edb)
-
+![img_js](https://github.com/kusalkarsonam/Concepts_Of_Javascript/assets/100954124/09d68428-dbbb-43b5-89a4-d7bc02295b6a)
 
                                               Concepts of JavaScript 
     Introduction
