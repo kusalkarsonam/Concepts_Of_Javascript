@@ -1,5 +1,4 @@
-                                              ![68747470733a2f2f692e696d6775722e636f6d2f6473486d6b36482e6a7067](https://github.com/kusalkarsonam/Concepts_Of_Javascript/assets/100954124/97a11536-ccf0-48c8-a73e-7f0c68ab7847)
-
+![68747470733a2f2f692e696d6775722e636f6d2f6473486d6b36482e6a7067](https://github.com/kusalkarsonam/Concepts_Of_Javascript/assets/100954124/319c7db7-478e-4a2a-9da6-7a20a18b89ec)
 
 
                                               Concepts of JavaScript 
